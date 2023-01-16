@@ -1,0 +1,8 @@
+node_modules
+dist
+design
+logs
+.vscode
+.env
+
+.vercel
